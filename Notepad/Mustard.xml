@@ -12,16 +12,16 @@ License:             GNU Free License.
 <NotepadPlus>
     <LexerStyles>
         <LexerType name="php" desc="PHP" ext="inc">
-            <WordsStyle name="QUESTION MARK" styleID="18" fgColor="D82727" bgColor="191919" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="DEFAULT" styleID="118" fgColor="E08056" bgColor="191919" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="STRING" styleID="119" fgColor="B9D5F0" bgColor="191919" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="B9D5F0" bgColor="191919" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="B9D5F0" bgColor="191919" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="WORD" styleID="121" fgColor="DFC47D" bgColor="191919" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
-            <WordsStyle name="NUMBER" styleID="122" fgColor="85E4F6" bgColor="191919" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="VARIABLE" styleID="123" fgColor="F7C527" bgColor="191919" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="124" fgColor="95A78C" bgColor="191919" fontName="" fontStyle="3" fontSize="" />
-            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="95A78C" bgColor="191919" fontName="" fontStyle="3" fontSize="" />
+            <WordsStyle name="QUESTION MARK" styleID="18" fgColor="73E4F6" bgColor="191919" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="DEFAULT" styleID="118" fgColor="F7C527" bgColor="191919" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="STRING" styleID="119" fgColor="A1D7F2" bgColor="191919" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="A1D7F2" bgColor="191919" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="A1D7F2" bgColor="191919" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="WORD" styleID="121" fgColor="EC691E" bgColor="191919" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="NUMBER" styleID="122" fgColor="73E4F6" bgColor="191919" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="VARIABLE" styleID="123" fgColor="ECD795" bgColor="191919" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="124" fgColor="80A78C" bgColor="191919" fontName="" fontStyle="3" fontSize="" />
+            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="80A78C" bgColor="191919" fontName="" fontStyle="3" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="127" fgColor="FFFFFF" bgColor="191919" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
         <LexerType name="javascript" desc="JavaScript" ext="">
