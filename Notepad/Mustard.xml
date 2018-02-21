@@ -154,7 +154,7 @@ License:             GNU Free License.
             <WordsStyle name="STRING" styleID="3" fgColor="A1D7F2" bgColor="191919" fontName="" fontStyle="0" fontSize="">alert appendChild arguments array blur checked childNodes className confirm dialogArguments event focus getElementById getElementsByTagName innerHTML keyCode length location null number parentNode push RegExp replace selectNodes selectSingleNode setAttribute split src srcElement test undefined value window</WordsStyle>
             <WordsStyle name="CHARACTER" styleID="4" fgColor="A1D7F2" bgColor="191919" fontName="" fontStyle="0" fontSize="">if else for while</WordsStyle>
             <WordsStyle name="KEYWORDS" styleID="5" fgColor="EC691E" bgColor="191919" fontName="" fontStyle="0" fontSize="" keywordClass="instre1">bool long int char</WordsStyle>
-            <WordsStyle name="TRIPLE" styleID="6" fgColor="73E4F6" bgColor="191919" fontName="" fontStyle="0" fontSize="">bool long int char</WordsStyle>
+            <WordsStyle name="TRIPLE" styleID="6" fgColor="80A78C" bgColor="191919" fontName="" fontStyle="0" fontSize="">bool long int char</WordsStyle>
             <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="73E4F6" bgColor="191919" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CLASSNAME" styleID="8" fgColor="EC691E" bgColor="191919" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="DEFNAME" styleID="9" fgColor="EC691E" bgColor="191919" fontName="" fontStyle="1" fontSize="" />
